@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="style.css"/>
+	<link rel="stylesheet" href="mediastyle.css"/>
+</head>
+
+<body>
+<header>
+
+	<h1 id="welcome">Welcome to </h1>
+	<div id="logo">
+	<img src="Lg.png"/>
+	</div>
+	
+	<nav>
+	<ul>
+	<li id="navactive" href="index.html"><a>Home</a></li>
+	<li><a href="services.html">Services</a></li>
+	<li><a href="about.html">About</a></li>
+	<li><a href="services.html">Contact</a></li>
+	</ul>
+	</nav>
+
+</header>
+
+<section>
+
+	<h1>Home</h1>
+
+</section>
+
+</body>
+<footer>
+<span>Ubuntu Trailer Manufatures</span> 
+</footer>
+</html>
+</html>
